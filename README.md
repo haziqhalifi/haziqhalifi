@@ -1,5 +1,7 @@
 # 💫 About Me:
 I am a third year software engineering student at University Malaya.
+Currently, interning at Grab.
+Keep Learning, Unlearning and Relearning!!!
 
 
 ## 🌐 Socials:
